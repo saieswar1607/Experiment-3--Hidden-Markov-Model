@@ -36,7 +36,7 @@ for t in range(len(observed_sequence)):
 print("The most likely sequence of weather states is:",most_likely_sequence)
 ```
 ## Output:
-![output](https://github.com/21003698/Experiment-3--Hidden-Markov-Model/blob/main/ex05%20op.jpg?raw=true)
+<img width="930" alt="1" src="https://github.com/saieswar1607/Experiment-3--Hidden-Markov-Model/assets/93427011/bb76c2a8-22f4-468b-a061-b029be26969b">
 
 ## Result:
 
