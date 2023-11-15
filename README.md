@@ -15,10 +15,6 @@ Step 9:Find the most likely sequence of hidden states by selecting the hidden st
 
 ##  Program:
 ```
-Developed by: Sai Eswar Kandukuri
-Register Number: 212221240020
-```
-```
 import numpy as np
 transition_matrix=np.array([[0.7,0.3],[0.4,0.6]])
 emission_matrix=np.array([[0.1,0.9],[0.8,0.2]])
